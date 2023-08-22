@@ -14,6 +14,9 @@ Hey there! 👋 I'm Stephanie Church, a passionate software engineer on a missio
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+[Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
 
 ## Let's Connect!
 
